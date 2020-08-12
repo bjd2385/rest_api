@@ -1,5 +1,5 @@
 # I'm going to use Python 3.8 for this to begin with, built on Debian 10 Buster, although the instructor tells us to use 3.7.
-FROM python3.8.5-buster
+FROM python3.8.5
 
 MAINTAINER Brandon Doyle
 
